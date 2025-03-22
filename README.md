@@ -1,1 +1,1 @@
-# python_projects
+# GIAIC Assignment Python Projects
