@@ -2,7 +2,6 @@
 # then a verb, and then prints a fun sentence with those words!
 import sys
 def main():
-  BOLD = "\033[1m"
   RESET = "\033[0m" 
   BOLD_ITALIC = "\033[1;3m"
   try:
