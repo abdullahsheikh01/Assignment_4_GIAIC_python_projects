@@ -1,5 +1,4 @@
 # 00_count_nums
-## Description
 This Python program counts how many times each number appears in a **user-provided list**. It uses a **dictionary** to store the count of each number.
 
 ## How It Works
