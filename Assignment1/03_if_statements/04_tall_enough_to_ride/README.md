@@ -6,4 +6,7 @@ This Python program checks whether a user is tall enough to ride a roller coaste
 - The program sets a **minimum height requirement** of **50 inches**.
 - If the user's height is **50 inches or more**, they are eligible to ride.
 - If their height is **less than 50 inches**, they are not eligible.
-- The program handles invalid inputs (e.g., negative numbers or non-numeric values) and ask again and again for input untill user input positive number to get answer.
+- The program handles invalid inputs (e.g., negative numbers or non-numeric values) and ask again and again for input untill user input positive number to get answer.0
+
+## Program Code Link(Google Colab):
+https://colab.research.google.com/drive/14WYo-l-YdVfZCHusf_RimOU_N5MSrd1V?usp=sharing
