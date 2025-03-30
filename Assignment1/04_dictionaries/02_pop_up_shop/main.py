@@ -34,6 +34,8 @@ def main():
             total+=fruits_with_price[_]*fruits_with_quantity[_]
         print(f"Your total Bill is {total}")
     except:
+        sys.stdout.write(BOLD)
         print("Please Write Quantity in Positive Numbers")
+        sys.stdout.write(RESET)
 if __name__ == '__main__':
     main()
